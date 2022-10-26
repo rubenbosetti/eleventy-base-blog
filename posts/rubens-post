@@ -1,0 +1,14 @@
+---
+title: Ruben's first post
+description: This is a test post
+date: 2022-10-26
+tags:
+  - ruben
+layout: layouts/post.njk
+---
+Ciao, questo è il mio primo post
+
+# Questo è un header
+Contenuto
+
+Vediamo se funzionano i wikilinks [[first-post]]
